@@ -70,7 +70,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`𝚂𝙲𝙴𝙽𝙴-𝙼𝙳 𝙱𝚈 𝙱𝙴𝙻𝚃𝙰𝙷\n\n> 𝚄𝙿𝚃𝙸𝙼𝙴 𝚄𝙿𝚃𝙾 : *${runtime(process.uptime())}* 𝚂𝙸𝙽𝙲𝙴 𝙻𝙰𝚂𝚃 𝙰𝙲𝚃𝙸𝚅𝙴♻️`) 
+                 await repondre(`𝚂𝙲𝙴𝙽𝙴-𝙼𝙳 𝙱𝚈 𝙱𝙴𝙻𝚃𝙰𝙷\n\n> 𝗨𝗣𝗧𝗜𝗠𝗘 𝗨𝗣𝗧𝗢 : *${runtime(process.uptime())}* 𝗦𝗜𝗡𝗖𝗘 𝗟𝗔𝗦𝗧 𝗥𝗘𝗦𝗧𝗔𝗥𝗧𝗘𝗗🌝`) 
 
    
 
