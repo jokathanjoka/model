@@ -1,5 +1,5 @@
 {
-  "name":"NOTHING",
+  "name":"𝐒𝐂𝐄𝐍𝐄-𝐌𝐃",
   "description":"An easy and simple WhatsApp bot developed by Beltah Tech 254🇰🇪",
   "keywords":[
     "bot",
@@ -7,8 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-  "repository":"https://github.com/Beltahmod2/NOTHING",
+  "logo":"https://telegra.ph/file/305827be2080296d1ab2d.jpg",
   "succes_url":"/",
 "stack":"container",
   
@@ -47,7 +46,7 @@
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"",
+      "value":"https://telegra.ph/file/305827be2080296d1ab2d.jpg",
       "required":false
 
      },
@@ -59,11 +58,11 @@
     }
         ,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
+    "description": "paste your heroku api-key (this is optionnal)",
      "required" :false
     },
    "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME (this is optionnal)",
+    "description": "type your heroku APP NAME (this is optionnal)",
      "required" :false
     }  
           ,
