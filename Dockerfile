@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Beltahmod2/NOTHING   /root/Zokou_Bot
+RUN git clone https://github.com/Beltahmod2/MOD-BELTAH  /root/Zokou_Bot
 WORKDIR /root/Zokou_Bot/
 
 
