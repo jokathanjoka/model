@@ -1,6 +1,6 @@
 {
-  "name": "MOD-BELTAH",
-  "description": "MOD-BELTAH was developed by Beltah.",
+  "name": "𝗦𝗖𝗘𝗡𝗘-𝗠𝗗",
+  "description": "𝗦𝗖𝗘𝗡𝗘-𝗠𝗗 was developed by Beltah.",
   "keywords": [
     "bot",
     "node",
@@ -48,12 +48,12 @@
       "required": false
     },
     "HEROKU_APY_KEY": {
-      "description": "insert your heroku api-key",
+      "description": "insert your heroku api-key (The name you wrote at the beginning)",
       "value" : "HRKU-4e4d54bb-7c56-4a6d-adef-cac24f205fb0", 
       "required": true
     },
     "HEROKU_APP_NAME": {
-      "description": "insert your heroku APP NAME (the name you wrote at the beginning)",
+      "description": "insert your heroku APP NAME (this is optionnal)",
       "value" : "", 
       "required": true
     },
@@ -89,7 +89,7 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "if you want to enable anti delete message put yes else put no",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "PM_CHATBOT": {
@@ -98,18 +98,6 @@
       "value": "yes"
     }
   },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ],
   "formation": {
     "worker": {
       "quantity": 1,
@@ -121,4 +109,4 @@
       "plan": "heroku-postgresql:essential-0"
     }
   ]
-}
+    }
