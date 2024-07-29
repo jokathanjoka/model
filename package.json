@@ -1,5 +1,5 @@
 {
-  "name": "nothing",
+  "name": "mod-beltah",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "keywords": [
     "bot",
     "Baileys",
-    "nothing",
+    "mod-beltah",
     "whatsapp",
     "whatsapp-bot",
     "zokou"
@@ -64,6 +64,5 @@
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.7",
     "yt-search": "^2.10.4",
-    "ytdl-core": "140.82.113.3"
   }
 }
