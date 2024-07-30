@@ -22,7 +22,7 @@ let flashspeed = (speed() - timestamp).toFixed(4)
 zokou({ nomCom: 'ping',
     desc: 'To check ping',
     Categorie: 'General',
-    reaction: '♻️', 
+    reaction: '😬', 
     fromMe: 'true', 
 
 
@@ -62,7 +62,7 @@ await zk.sendMessage(dest, { video: { url: 'https://telegra.ph/file/4bbcfdf0a62d
 zokou({ nomCom: 'uptime',
     desc: 'To check runtime',    
     Categorie: 'General',
-    reaction: '👁️', 
+    reaction: '😡', 
     fromMe: 'true', 
 
 
@@ -81,7 +81,7 @@ zokou({ nomCom: 'uptime',
 zokou({ nomCom: 'runtime',
     desc: 'To check runtime',    
     Categorie: 'General',
-    reaction: '⚡', 
+    reaction: '⏳', 
     fromMe: 'true', 
 
 
