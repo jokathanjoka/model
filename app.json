@@ -1,6 +1,6 @@
 {
-  "name": "𝗦𝗖𝗘𝗡𝗘-𝗠𝗗",
-  "description": "𝗦𝗖𝗘𝗡𝗘-𝗠𝗗 was developed by Beltah.",
+  "name": "𝐒𝐂𝐄𝐍𝐄-𝐌𝐃-𝐕𝟐",
+  "description": "𝐒𝐂𝐄𝐍𝐄-𝐌𝐃-𝐕𝟐 was developed by Beltah.",
   "keywords": [
     "bot",
     "node",
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "𝗦𝗖𝗘𝗡𝗘-𝗠𝗗",
+      "value": "𝐒𝐂𝐄𝐍𝐄-𝐌𝐃-𝐕𝟐",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -49,7 +49,7 @@
     },
     "HEROKU_APY_KEY": {
       "description": "insert your heroku api-key (The name you wrote at the beginning)",
-      "value" : "HRKU-4e4d54bb-7c56-4a6d-adef-cac24f205fb0", 
+      "value" : "HRKU-ef7dab2b-e1e9-461c-8ea3-911ae9c8eb6b", 
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -65,7 +65,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "I.am.Beltah"
+      "value": "𝗕𝗲𝗹𝘁𝗮𝗵 𝗞𝗲"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
